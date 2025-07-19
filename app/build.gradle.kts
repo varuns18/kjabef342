@@ -58,6 +58,9 @@ dependencies {
     implementation ("androidx.lifecycle:lifecycle-livedata-ktx:2.8.2")
     implementation ("androidx.lifecycle:lifecycle-viewmodel-ktx:2.8.2")
 
+    implementation ("io.tus.java.client:tus-java-client:0.5.1")
+    implementation ("io.tus.android.client:tus-android-client:0.1.12")
+
     implementation ("com.github.bumptech.glide:glide:4.16.0")
     annotationProcessor ("com.github.bumptech.glide:compiler:4.16.0")
 
